@@ -1,4 +1,6 @@
 14 5 zmiana zmiana2
+
+zmiana 333
 44 0
 74 5
 126 20
